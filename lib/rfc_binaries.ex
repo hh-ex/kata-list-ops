@@ -1,0 +1,2 @@
+defmodule RfcBinaries do
+end
