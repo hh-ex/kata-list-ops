@@ -1,20 +1,15 @@
-# ListOps
+# Aprils Edition - ListOps
 
-**TODO: Add description**
+coding challenge repo for hh.ex april edition
 
-## Installation
+## Description:
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+This time we are going to go write some functional programming basics ourself.
 
-  1. Add list_ops to your list of dependencies in `mix.exs`:
+We have some tests prepared, you can run them as usual with `mix test`.
 
-        def deps do
-          [{:list_ops, "~> 0.0.1"}]
-        end
+:warning: Don't cheat! Avoid `Enum`, `List`, or similar things from the StdLib. :warning:
 
-  2. Ensure list_ops is started before your application:
+## Results
 
-        def application do
-          [applications: [:list_ops]]
-        end
-
+Please open a Pull Request with your solution, so we can discuss the results together and people who did not attend have a chance to see different approach.
