@@ -4,7 +4,7 @@ coding challenge repo for hh.ex april edition
 
 ## Description:
 
-This time we are going to go write some functional programming basics ourself.
+This time we are going to go write some functional programming basics ourself. We are going to implement List operations like `count`, and `reverse`.
 
 We have some tests prepared, you can run them as usual with `mix test`.
 
